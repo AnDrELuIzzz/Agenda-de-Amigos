@@ -42,4 +42,9 @@ Após a compilação, execute o programa com o seguinte comando:
 - O programa utiliza uma tabela chamada `contatos` no banco de dados MySQL para armazenar as informações dos contatos.
 - Certifique-se de configurar as variáveis de conexão no arquivo `variaveis.h` antes de compilar o programa.
 
+## Planos Futuros
+
+- **Sistema de Autenticação**: Pretendo implementar um sistema de autenticação para garantir o acesso seguro ao programa.
+- **Interface Gráfica com Glade e GTK**: Está nos planos criar uma interface gráfica para tornar a interação com o programa mais amigável usando Glade e GTK.
+
 ---
