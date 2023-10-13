@@ -22,7 +22,7 @@ O programa oferece as seguintes funcionalidades:
 
 Para compilar o programa, utilize o seguinte comando:
 
-gcc -o agenda main.c -lmysqlclien
+gcc main.c -lmysqlclient -o main
 
 ## Execução
 
