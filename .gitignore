@@ -1,0 +1,9 @@
+*.exe
+/teste_conection.c 
+*.o
+/testegtk.c
+/teste_conection
+/output
+/interface
+variaveis.h
+main
